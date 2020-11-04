@@ -1,0 +1,50 @@
+[
+  {
+    "model": "profiles.division",
+    "fields": {
+      "name": "USALinkSystem",
+      "country": "Moldova",
+      "city": "Balti"
+    }
+  },
+  {
+    "model": "profiles.division",
+    "fields": {
+      "name": "USALinkSystem",
+      "country": "Moldova",
+      "city": "Chisinau"
+    }
+  },
+  {
+    "model": "profiles.division",
+    "fields": {
+      "name": "USALinkSystem",
+      "country": "Moldova",
+      "city": "Orhei"
+    }
+  },
+  {
+    "model": "profiles.division",
+    "fields": {
+      "name": "USALinkSystem",
+      "country": "India",
+      "city": "Indiana"
+    }
+  },
+  {
+    "model": "profiles.division",
+    "fields": {
+      "name": "USALinkSystem",
+      "country": "USA",
+      "city": "Los-Angeles"
+    }
+  },
+  {
+    "model": "profiles.division",
+    "fields": {
+      "name": "USALinkSystem",
+      "country": "Philippines",
+      "city": "philipinka"
+    }
+  }
+]

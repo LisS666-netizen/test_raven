@@ -1,0 +1,11 @@
+Class :
+    Init - > domain:str , url -> (url:str, data(parametr))
+    Destroy -> Destroy class for end proccess
+    CRUD -> Create Read Update Delete func for url list
+    Header -> Header requests
+    Check - > Checker requests and response how to not empty and necessary data
+    Checker - > Test Check response (request url data how to response)
+    Iteration -> Iteration for urls
+    Integration -> Integrate for Jenkins CI when run test stage
+    Report -> True and False check test input report dara
+    Allure -> Genrate output

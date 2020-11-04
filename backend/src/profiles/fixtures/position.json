@@ -1,0 +1,56 @@
+[
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Junior Mobile Developer"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Marketing & Support"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Junior Tester & QA"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Graphic & Web Design"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Junior Back-end Developer"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Middle Mobile Developer"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Middle Marketing & Support"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Middle Baack-end Developer"
+    }
+  },
+  {
+    "model": "profiles.position",
+    "fields": {
+      "name": "Middle Front-end Developer"
+    }
+  }
+]
